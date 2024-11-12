@@ -13,6 +13,7 @@ class User {
     var name: String
     var city: String
     var joiningDate: Date
+    @Relationship(deleteRule: .cascade) var jobs = [Job]()
     
     init(name: String, city: String, joiningDate: Date) {
         self.name = name
