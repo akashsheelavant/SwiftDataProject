@@ -13,6 +13,7 @@
 		5B18A1AF2CE1BF4900359CA8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B18A1AE2CE1BF4900359CA8 /* Preview Assets.xcassets */; };
 		5B18A1B62CE1CBDD00359CA8 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B18A1B52CE1CBDD00359CA8 /* User.swift */; };
 		5B18A1B82CE1CCC400359CA8 /* EditUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B18A1B72CE1CCC400359CA8 /* EditUserView.swift */; };
+		5B2B1DC32CE3400E0032D0B2 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B2B1DC22CE3400E0032D0B2 /* UserView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		5B18A1AE2CE1BF4900359CA8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5B18A1B52CE1CBDD00359CA8 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		5B18A1B72CE1CCC400359CA8 /* EditUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditUserView.swift; sourceTree = "<group>"; };
+		5B2B1DC22CE3400E0032D0B2 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				5B18A1AD2CE1BF4900359CA8 /* Preview Content */,
 				5B18A1B52CE1CBDD00359CA8 /* User.swift */,
 				5B18A1B72CE1CCC400359CA8 /* EditUserView.swift */,
+				5B2B1DC22CE3400E0032D0B2 /* UserView.swift */,
 			);
 			path = SwiftDataProject;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				5B18A1AA2CE1BF4300359CA8 /* ContentView.swift in Sources */,
 				5B18A1B82CE1CCC400359CA8 /* EditUserView.swift in Sources */,
+				5B2B1DC32CE3400E0032D0B2 /* UserView.swift in Sources */,
 				5B18A1A82CE1BF4300359CA8 /* SwiftDataProjectApp.swift in Sources */,
 				5B18A1B62CE1CBDD00359CA8 /* User.swift in Sources */,
 			);
